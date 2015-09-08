@@ -1,0 +1,8 @@
+------------------
+Design
+-------------------
+Take a 200x100 image.
+Convert to grey
+Do a morphological binary tranform
+Do a edge detection
+Calculate hough transform for straight lines ( Curves will be done later )
